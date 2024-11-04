@@ -1,6 +1,6 @@
 # ##### BEGIN GPL LICENSE BLOCK #####
 #
-#  Face Maps Legacy, (c) 2024 Tyo 7900000000000000000000000000
+#  Face Maps Legacy, (c) 2024 Tyo 79
 #
 #  This program is free software; you can redistribute it and/or
 #  modify it under the terms of the GNU General Public License
